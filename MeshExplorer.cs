@@ -8,9 +8,9 @@ namespace Tools
 {
     enum Selecter
     {
-        Все,
-        Да,
-        Нет 
+        All,
+        Yes,
+        No 
     }
 
     public class MeshExplorer : EditorWindow
